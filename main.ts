@@ -6,7 +6,7 @@ blog({
   author: "Nabhan Hanif",
   description: "My blog about programming, tech, and life.",
   links: [
-    { title: "Email", url: "mailto:nabhanhanif2000@gmail.com" },
+    { title: "Email", url: "mailto:me@nabhanhanif.tech" },
     { title: "GitHub", url: "https://github.com/nabhanh" },
     { title: "LinkedIn", url: "https://www.linkedin.com/in/nabhanh/" },
   ],
